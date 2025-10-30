@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 分支对话",
+  "description": "一个用于 AI 分支对话的 Web 应用，允许用户探索不同的对话路径。它具有可视化对话树，与本地 Ollama 模型通信，并且所有数据都存储在本地。",
+  "requestFramePermissions": []
+}
